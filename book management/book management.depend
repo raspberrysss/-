@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1655641088 source:d:\my documents game cyuyan\c++\book management\main.cpp
+	<iostream>
+	"bookm.h"
+	<string>
+	<list>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<algorithm>
+
+1655650516 source:d:\my documents game cyuyan\c++\book management\bookm01.cpp
+	<iostream>
+	"bookm.h"
+	<string>
+	<list>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+	<functional>
+
+1655218597 d:\my documents game cyuyan\c++\book management\bookm.h
+	<string>
+	<list>
+
